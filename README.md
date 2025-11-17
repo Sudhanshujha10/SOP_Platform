@@ -1,4 +1,4 @@
-# Bill Blaze 🔥
+# SOP Management Platform 🔥
 
 **AI-Powered Claim Rule Management Platform**
 
